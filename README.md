@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dishant Sthapit</h1>
 <h3 align="center">Frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishantsthapit" alt="dishantsthapit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=dishantsthapit" alt="dishantsthapit" /></a> </p>
 
 <h3 align="left">Connect with me on Linkedin - <a href="https://linkedin.com/in/dishantsthapit" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishantsthapit" height="30" width="40" /></a></h3>
 
